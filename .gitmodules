@@ -1,6 +1,6 @@
 [submodule "PCB/KiCAD/OMiGaS_Rev_3"]
 	path = PCB/KiCAD/OMiGaS_Rev_3
-	url = D:\\KiCad\\data\\OMiGaS_Rev_3
+	url = https://github.com/XiaotianGuan/OMiGaS_KiCAD
 [submodule "3D/OMiGaS"]
 	path = 3D/OMiGaS
-	url = D:\\FreeCAD\\projects\\OMiGaS
+	url = https://github.com/XiaotianGuan/OMiGaS_FreeCAD
